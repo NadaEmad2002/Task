@@ -1,2 +1,2 @@
-# Task
-60 python exercise
+# Python exercises
+python exercise
